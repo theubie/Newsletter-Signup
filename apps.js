@@ -1,6 +1,6 @@
 //User Configuration
-const listID = "44d2f03443";
-const apiKey = "f446761428e04186476e91c10e588ae9-us5";
+const listID = "YOUR_LIST_ID";
+const apiKey = "YOUR_API_KEY";
 const port = 3000;
 
 const express = require('express');
